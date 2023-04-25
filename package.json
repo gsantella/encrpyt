@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "cryptr": "^6.2.0"
+  },
+  "devDependencies": {
+    "json-server": "^0.17.3"
   }
 }
