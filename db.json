@@ -24,6 +24,46 @@
       "body": "comment posted from api",
       "postId": 5,
       "id": 4
+    },
+    {
+      "body": "added from a post",
+      "postId": 55,
+      "id": 5
+    },
+    {
+      "body": "added from a post",
+      "postId": 55,
+      "id": 6
+    },
+    {
+      "body": "added from a post",
+      "postId": 55,
+      "id": 7
+    },
+    {
+      "body": "added from a post",
+      "postId": 55,
+      "id": 8
+    },
+    {
+      "body": "added from a api using axios",
+      "postId": 55,
+      "id": 9
+    },
+    {
+      "body": "added from a api using axios",
+      "postId": 55,
+      "id": 10
+    },
+    {
+      "body": "added from a api using axios",
+      "postId": 55,
+      "id": 11
+    },
+    {
+      "body": "added from a api using axios",
+      "postId": 55,
+      "id": 12
     }
   ],
   "profile": {
